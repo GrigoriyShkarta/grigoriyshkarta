@@ -15,3 +15,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909??style=for-the-badge&logo=telegram)](https://t.me/GrishkoShkarta)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909??style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/%D0%B3%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9-%D1%88%D0%BA%D0%B0%D1%80%D1%82%D0%B0-9b6097215/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909??style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100017215446633)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigoriyShkarta&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
