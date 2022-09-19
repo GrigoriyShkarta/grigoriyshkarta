@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Header](https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952ssrv8p9blzkcv3bu40crleffvsaqa3umq7w5ig84&rid=giphy.gif&ct=s)]
+![Header](https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952ssrv8p9blzkcv3bu40crleffvsaqa3umq7w5ig84&rid=giphy.gif&ct=s)
 
 ## I'm a beginner React developer
 
