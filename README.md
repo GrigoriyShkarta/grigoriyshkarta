@@ -1,4 +1,4 @@
-[![Header](https://www.reactiongifs.us/wp-content/uploads/2018/06/uOq5Vqy.gif)](https://www.reactiongifs.us/wp-content/uploads/2018/06/uOq5Vqy.gif)
+[![Header](https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952ssrv8p9blzkcv3bu40crleffvsaqa3umq7w5ig84&rid=giphy.gif&ct=s)](https://www.reactiongifs.us/wp-content/uploads/2018/06/uOq5Vqy.gif)
 
 ## I'm a beginner React developer
 
@@ -10,6 +10,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909??style=for-the-badge&logo=Redux)
 ![Figma](https://img.shields.io/badge/-Figma-090909??style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-090909??style=for-the-badge&logo=git)
+![WebStorm](https://img.shields.io/badge/-WebStorm-090909??style=for-the-badge&logo=webstorm)
+![npm](https://img.shields.io/badge/-NPM-090909??style=for-the-badge&logo=npm)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909??style=for-the-badge&logo=telegram)](https://t.me/GrishkoShkarta)
@@ -17,3 +19,5 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909??style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100017215446633)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigoriyShkarta&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoriyShkarta&=compact)](https://github.com/anuraghazra/github-readme-stats)
