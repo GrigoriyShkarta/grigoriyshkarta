@@ -1,4 +1,7 @@
-[![Header](https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952ssrv8p9blzkcv3bu40crleffvsaqa3umq7w5ig84&rid=giphy.gif&ct=s)](https://www.reactiongifs.us/wp-content/uploads/2018/06/uOq5Vqy.gif)
+
+<div align="center">
+
+[![Header](https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952ssrv8p9blzkcv3bu40crleffvsaqa3umq7w5ig84&rid=giphy.gif&ct=s)]
 
 ## I'm a beginner React developer
 
@@ -21,3 +24,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigoriyShkarta&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigoriyShkarta&=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
