@@ -1,1 +1,1 @@
-[![Header](https://twilio-cms-prod.s3.amazonaws.com/original_images/lI7CV0Ljd8jXb6wL-YJevh0h0D2eItC8P9mJtHZ_JgdSzFeR6OqMFcDobpxl73BqKUe-ilMj0BlJum)](https://twilio-cms-prod.s3.amazonaws.com/original_images/lI7CV0Ljd8jXb6wL-YJevh0h0D2eItC8P9mJtHZ_JgdSzFeR6OqMFcDobpxl73BqKUe-ilMj0BlJum)
+[![Header](https://www.pinterest.com/pin/386605949243944548/)](https://www.pinterest.com/pin/386605949243944548/)
